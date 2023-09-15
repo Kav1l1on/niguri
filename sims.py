@@ -113,6 +113,7 @@ class Human:
         pass
 
 
+
 class Auto:
     def __init__(self,brand_list):
         self.brand = random.choice(list(brand_list))
